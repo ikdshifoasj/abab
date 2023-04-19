@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="OO:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/OO_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="OO/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="OO" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="mysql-connector-j-8.0.31" />
+          <element id="library" level="project" name="jboss-javassist-javassist-700be6f" />
+          <element id="library" level="project" name="jihuo-tool" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
