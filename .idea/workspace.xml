@@ -5,7 +5,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8584320f-e07c-48a3-9a9b-024bfe5722b0" name="变更" comment="连接github">
+      <change afterPath="$PROJECT_DIR$/bin/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/NOTICE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/RELEASE-NOTES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-1.2-api-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-1.2-api-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-api-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-api-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-api-test-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-api-test-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-appserver-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-appserver-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-cassandra-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-cassandra-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-core-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-core-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-core-test-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-core-test-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-couchdb-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-couchdb-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-docker-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-docker-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-flume-ng-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-flume-ng-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-iostreams-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-iostreams-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jakarta-smtp-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jakarta-smtp-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jakarta-web-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jakarta-web-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jcl-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jcl-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jdbc-dbcp2-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jdbc-dbcp2-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jmx-gui-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jmx-gui-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jpa-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jpa-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jpl-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jpl-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jul-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-jul-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-kubernetes-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-kubernetes-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-layout-template-json-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-layout-template-json-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-mongodb3-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-mongodb3-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-mongodb4-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-mongodb4-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-osgi-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-osgi-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-slf4j-impl-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-slf4j-impl-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-slf4j2-impl-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-slf4j2-impl-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-spring-boot-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-spring-boot-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-spring-cloud-config-client-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-spring-cloud-config-client-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-taglib-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-taglib-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-to-jul-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-to-jul-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-to-slf4j-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-to-slf4j-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-web-2.20.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/lib/log4j-web-2.20.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/web/Jquery/WW.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/web/Jquery/XX.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AirflowPythmJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AirflowPythonJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-spring.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/logback-spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/$!$.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/HH.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/OO_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/OO_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/demo/src/main/java/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/demo/src/main/java/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jihuo_tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/jihuo_tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HH/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HH/LL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HH/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/artifacts/OO_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/artifacts/OO_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/H.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HH/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HH/LL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HH/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/K.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/META-INF/application.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/P.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lib.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/H.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/K.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/K.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/P.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/P.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +131,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
         <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Tag Library Descriptor" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="D:\Users\Git\bin\git.exe" />
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -37,9 +155,30 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/demo/HELP.md" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/demo/pom.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.idea/demo/src/main/java/com/example/demo/DemoApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/demo/src/main/java/controller/HelloController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.idea/demo/src/test/java/com/example/demo/DemoApplicationTests.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/META-INF/application.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/bin/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/lib.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/K.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/$!$.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/HH.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/Jquery/XX.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/index.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/web/upload/KK.txt" root0="SKIP_INSPECTION" />
+    <setting file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JsBowerSettings">
     <bower-package value="" />
@@ -51,15 +190,36 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven/maven 3.9.1" />
         <option name="useMavenConfig" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="D:\maven\maven 3.9.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="20" />
+        <option name="vmOptionsForImporter" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true" />
+      </MavenImportingSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="native" />
+        <option value="nativeTest" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="#JAVA_HOME" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Mgmb86RKDGZIcHnh1R7LQe0qVS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
@@ -69,6 +229,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
     &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
@@ -79,7 +240,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/新建文件夹/apache-log4j-2.20.0-bin.zip&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/MR/eclipse/jee-2022-09/eclipse/OO/.idea/demo/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -87,32 +248,53 @@
     &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;工件&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.56545454&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;settings.editor.splitter.proportion&quot;: &quot;0.1984556&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;64ad9f7bece31efc2a8bff42e2d7b8b4&quot;,
     &quot;zielu.gittoolbox.prj.config.selected.tab.id&quot;: &quot;zielu.gittoolbox.config.shared.autoFetch&quot;
   },
   &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ],
     &quot;DatabaseDriversLRU&quot;: [
       &quot;mysql&quot;
     ]
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\MR\eclipse\jee-2022-09\eclipse\OO\bin\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MR\eclipse\jee-2022-09\eclipse\OO" />
       <recent name="C:\Users\MR\eclipse\jee-2022-09\eclipse\OO\.idea\demo\src\controller" />
       <recent name="C:\Users\MR\eclipse\jee-2022-09\eclipse\OO\HH" />
-      <recent name="C:\Users\MR\eclipse\jee-2022-09\eclipse\OO" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat 服务器.Tomcat 11.0.0-M4">
+  <component name="RunManager" selected="JAR 应用程序.log4j-osgi-2.20.0-sources.jar">
+    <configuration name="HelloController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controller.HelloController" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="OO" />
@@ -127,14 +309,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="P" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="P" />
-      <module name="OO" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="log4j-osgi-2.20.0-sources.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/log4j-osgi-2.20.0-sources.jar" />
+      <method v="2" />
     </configuration>
-    <configuration name="Tomcat 11.0.0-M4" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M4" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="HH.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/OO/OO/web/HH.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 11.0.0-M4" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 11.0.0-M4" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="20" nameIsGenerated="true">
       <option name="BROWSER_ID" value="37cae5b9-e8b2-4949-9172-aafa37fbc09c" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -223,16 +405,33 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JAR 应用程序.log4j-osgi-2.20.0-sources.jar" />
+      <item itemvalue="JavaScript 调试.HH.html" />
       <item itemvalue="Tomcat 服务器.Tomcat 11.0.0-M4" />
+      <item itemvalue="应用程序.HelloController" />
       <item itemvalue="应用程序.Main" />
       <item itemvalue="应用程序.OO" />
-      <item itemvalue="应用程序.P" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR 应用程序.log4j-osgi-2.20.0-sources.jar" />
+        <item itemvalue="应用程序.HelloController" />
+        <item itemvalue="应用程序.OO" />
+        <item itemvalue="应用程序.Main" />
+        <item itemvalue="JavaScript 调试.HH.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
   <component name="SvnConfiguration">
     <configuration>C:\Users\MR\AppData\Roaming\Subversion</configuration>
-    <option name="sshConnectionType" value="PASSWORD" />
+    <option name="sshConnectionType" value="PRIVATE_KEY" />
+    <option name="sshPrivateKeyPath" value="D:\Users\MR\id_rsa.pub" />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -276,7 +475,35 @@
       <workItem from="1681806408975" duration="3852000" />
       <workItem from="1681810299729" duration="5712000" />
       <workItem from="1681892166765" duration="544000" />
-      <workItem from="1681893076900" duration="2154000" />
+      <workItem from="1681893076900" duration="15944000" />
+      <workItem from="1681980045979" duration="3744000" />
+      <workItem from="1682006936479" duration="36758000" />
+      <workItem from="1682145494905" duration="6263000" />
+      <workItem from="1682186924551" duration="25159000" />
+      <workItem from="1682688542682" duration="1366000" />
+      <workItem from="1682690202542" duration="870000" />
+      <workItem from="1682691455374" duration="34000" />
+      <workItem from="1682691787097" duration="1165000" />
+      <workItem from="1682785482312" duration="50000" />
+      <workItem from="1682857836204" duration="369000" />
+      <workItem from="1682858226167" duration="164000" />
+      <workItem from="1682858422158" duration="472000" />
+      <workItem from="1682858911944" duration="446000" />
+      <workItem from="1682859419231" duration="570000" />
+      <workItem from="1682860173828" duration="14000" />
+      <workItem from="1682860202586" duration="29315000" />
+      <workItem from="1683117609740" duration="8023000" />
+      <workItem from="1683363126199" duration="346000" />
+      <workItem from="1683371770308" duration="30592000" />
+      <workItem from="1684299413496" duration="3009000" />
+      <workItem from="1684316823858" duration="1355000" />
+      <workItem from="1684333098517" duration="3524000" />
+      <workItem from="1684380707611" duration="17878000" />
+      <workItem from="1684473221177" duration="434000" />
+      <workItem from="1684473680493" duration="9627000" />
+      <workItem from="1684584990179" duration="29747000" />
+      <workItem from="1684907656005" duration="10659000" />
+      <workItem from="1684997220688" duration="676000" />
     </task>
     <task id="LOCAL-00001" summary="连接github">
       <created>1680433915952</created>
@@ -327,7 +554,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681895061167</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="连接github">
+      <created>1681910572610</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1681910572610</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,6 +570,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="330d1770-0e02-470b-a336-fb41b8a61356">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -355,8 +614,14 @@
         </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="330d1770-0e02-470b-a336-fb41b8a61356" value="TOOL_WINDOW" />
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="连接github" />
     <option name="LAST_COMMIT_MESSAGE" value="连接github" />
   </component>

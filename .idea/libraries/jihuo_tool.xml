@@ -1,10 +1,10 @@
 <component name="libraryTable">
   <library name="jihuo-tool">
     <CLASSES>
-      <root url="file://D:/java/jihuo-tool" />
+      <root url="file://D:/java/jihuo-tool2" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://D:/java/jihuo-tool" recursive="false" />
+    <jarDirectory url="file://D:/java/jihuo-tool2" recursive="false" />
   </library>
 </component>

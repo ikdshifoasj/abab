@@ -7,8 +7,9 @@
           <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
         </descriptors>
         <webroots>
-          <root url="file://$MODULE_DIR$/web" relative="/" />
+          <root url="file://$MODULE_DIR$/src/main/webapp" relative="/" />
         </webroots>
+        <sourceRoots />
       </configuration>
     </facet>
     <facet type="javaeeApplication" name="javaEEApplication">
@@ -16,23 +17,6 @@
         <descriptors>
           <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/META-INF/application.xml" />
         </descriptors>
-      </configuration>
-    </facet>
-    <facet type="javaeeApplication" name="javaEEApplication2">
-      <configuration>
-        <descriptors>
-          <deploymentDescriptor name="application.xml" url="file://$MODULE_DIR$/bin/META-INF/application.xml" />
-        </descriptors>
-      </configuration>
-    </facet>
-    <facet type="web" name="Web2">
-      <configuration>
-        <descriptors>
-          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/bin/web/WEB-INF/web.xml" />
-        </descriptors>
-        <webroots>
-          <root url="file://$MODULE_DIR$/bin/web" relative="/" />
-        </webroots>
       </configuration>
     </facet>
   </component>

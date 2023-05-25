@@ -36,3 +36,8 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/AirflowPythmJob.class
+/AirflowPythonJob.class
+/K.class
+/lib.class
+/.idea/

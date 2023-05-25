@@ -1,5 +1,5 @@
 
-
+DS_Store
 import java.awt.print.Book;
 import java.util.Collection;
 import java.util.Iterator;
@@ -20,7 +20,7 @@ public class K implements Comparable<Book>, List<T> {
         this.name = name;
     }
 
-    public int getPrice() {
+    public int getPriceC() {
 
 
         return price;
@@ -122,7 +122,7 @@ public class K implements Comparable<Book>, List<T> {
         return false;
     }
 
-    @Override
+    @Override“
     public void clear() {
 
     }
